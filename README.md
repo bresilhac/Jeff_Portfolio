@@ -8,6 +8,6 @@ https://github.com/bresilhac/Satellite-Image-Analysis-using-numpy/blob/main/Sate
 
 ## Project 2
 ### In this project I utilize various machine learning algorithms to determine the future prices of the stocks for five large cap companies including AAPL, MSFT, 
-AMZN, GOOG and FB.
+### AMZN, GOOG and FB.
 
 https://github.com/bresilhac/Big-Five-Stock-Prices-v1/blob/main/Big%20Five%20Stock%20Prices%20v1.ipynb
